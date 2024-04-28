@@ -62,19 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
+        - title: Graduate Research Assistant
+          company: CARV, ICS-FORTH
+          company_url: 'https://www.ics.forth.gr/carv/'
+          company_logo: forth_ics 
+          location: Heraklion, Greece
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
+            Responsibilities include:
               * Analysing
               * Modelling
               * Deploying
+        
+        - title: Teaching Assistant
+          company: Computer Science Department, UoC
+          company_url: 'https://www.csd.uoc.gr'
+          company_logo: uoc
+          location: Heraklion, Greece
+          date_start: '2017-09-01'
+          date_end: ''
+          description: |2-
+            Responsibilities include:
+              * Marking assignments and exams
+              * Give tutorials
+              * Answering student's questions
+              * Projects and assignments co-design with the professor and another TA
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
