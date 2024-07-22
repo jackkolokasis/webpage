@@ -2,7 +2,7 @@
 title: Dynamic DRAM Partitioning Between Managed Heap and Page Cache
 
 event: CS446 - Managed Runtime Systems
-event_url:
+event_url: https://foivos.zakkak.net/courses/managed-runtime-systems
 
 location: Deprartment of Computer Science, University of Crete, Greece
 
