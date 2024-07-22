@@ -4,7 +4,7 @@ title: 'GateKeeper: Transparent Placement of Big Data Objects in Hybrid Managed 
 event: 18th EuroSys Doctoral Workshop (EuroDW '24)
 event_url: https://2024.eurosys.org/euroDW.html
 
-location: Deprartment of Computer Science, University of Crete, Greece
+location: Athens, Greece
 
 summary: 
 abstract:

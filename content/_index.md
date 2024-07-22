@@ -259,7 +259,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Selected Talks / Posters
       filters:
         folders:
           - event
