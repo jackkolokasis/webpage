@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 
-I am a 3rd-year PhD student in the <a href="www.csd.uoc.gr">Computer Science
+I am a 4th-year PhD student in the <a href="www.csd.uoc.gr">Computer Science
   Department at the University of Crete</a>, working with <a
   href="https://users.ics.forth.gr/~bilas">Prof. Angelos Bilas</a>. I am also a
 graduate research assistant in the <a
