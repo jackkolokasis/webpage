@@ -271,6 +271,18 @@ sections:
       #    title: Popular Topics
       #  design:
       #    columns: '2'
+  - block: markdown
+    id: services
+    content:
+      title: Recent & Upcoming Affiliated Conferences and Journals
+      text: |-
+        - Member, Artifact Evaluation Committee, [EuroSys 2025](https://2025.eurosys.org/)
+        - Member, Artifact Evaluation Committee, [Journal of Systems Research (JSys)](https://www.jsys.org/), 2022 - today
+
+    design:
+      columns: '2'
+      view: compact
+ 
   - block: contact
     id: contact
     content:
