@@ -276,6 +276,7 @@ sections:
     content:
       title: Recent & Upcoming Affiliated Conferences and Journals
       text: |-
+        - Member, Shadow Program Committee, [EuroSys 2025](https://2025.eurosys.org/)
         - Member, Artifact Evaluation Committee, [EuroSys 2025](https://2025.eurosys.org/)
         - Member, Artifact Evaluation Committee, [Journal of Systems Research (JSys)](https://www.jsys.org/), 2022 - today
 
