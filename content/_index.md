@@ -276,9 +276,11 @@ sections:
     content:
       title: Recent & Upcoming Affiliated Conferences and Journals
       text: |-
+        - Member, Program Committee, [VMIL 2025](https://conf.researchr.org/home/icfp-splash-2025/vmil-2025)
+        - Member, Program Committee, [TDIS 2025](https://tdis.gitlab.io/tdis25/)
         - Member, Shadow Program Committee, [EuroSys 2025](https://2025.eurosys.org/)
         - Member, Artifact Evaluation Committee, [EuroSys 2025](https://2025.eurosys.org/)
-        - Member, Artifact Evaluation Committee, [Journal of Systems Research (JSys)](https://www.jsys.org/), 2022 - today
+        - Member, Artifact Evaluation Committee, [Journal of Systems Research (JSys)](https://www.jsys.org/), 2022 - 2025
 
     design:
       columns: '2'
