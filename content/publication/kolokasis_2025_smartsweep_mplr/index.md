@@ -18,7 +18,7 @@ publication_types:
   - paper-conference
 publication: "*Proceedings of the 22nd ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR '25)*"
 url_pdf: https://doi.org/10.1145/3759426.3760981
-# url_slides: uploads/teraheap_asplos23_kolokasis.pdf
+url_slides: uploads/smartsweep_mplr25_kolokasis.pdf
 # url_poster: uploads/teraheap_poster_asplos23_kolokasis.pdf
 # url_video: https://www.youtube.com/watch?v=2fSqvkNk07M&ab_channel=ACMSIGARCH
 ---
