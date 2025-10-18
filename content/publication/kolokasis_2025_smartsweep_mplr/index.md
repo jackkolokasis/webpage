@@ -20,5 +20,5 @@ publication: "*Proceedings of the 22nd ACM SIGPLAN International Conference on M
 url_pdf: https://doi.org/10.1145/3759426.3760981
 url_slides: uploads/smartsweep_mplr25_kolokasis.pdf
 # url_poster: uploads/teraheap_poster_asplos23_kolokasis.pdf
-# url_video: https://www.youtube.com/watch?v=2fSqvkNk07M&ab_channel=ACMSIGARCH
+url_video: https://youtu.be/sJZtDHw3Pus?t=17703
 ---

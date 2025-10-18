@@ -19,5 +19,5 @@ publication: "*Proceedings of the 17th ACM SIGPLAN International Workshop on Vir
 url_pdf: https://doi.org/10.1145/3759548.3763369
 url_slides: uploads/matsa_vmil25_polyvios.pdf
 # url_poster: uploads/teraheap_poster_asplos23_kolokasis.pdf
-# url_video: https://www.youtube.com/watch?v=2fSqvkNk07M&ab_channel=ACMSIGARCH
+url_video: https://youtu.be/tOMF69dP2-I?t=22312
 ---
