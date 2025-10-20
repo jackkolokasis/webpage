@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 
-I am a 4th-year PhD student in the <a href="www.csd.uoc.gr">Computer Science
+I am a PhD student in the <a href="www.csd.uoc.gr">Computer Science
   Department at the University of Crete</a>, advised by <a
   href="https://users.ics.forth.gr/~bilas">Prof. Angelos Bilas</a>, <a
   href="https://users.ics.forth.gr/~polyvios">Prof. Polyvios Pratikakis</a>, and <a
