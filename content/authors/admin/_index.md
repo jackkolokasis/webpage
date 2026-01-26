@@ -118,9 +118,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: skype
-    icon_pack: fab
-    link: https://join.skype.com/invite/gW4O8dVEyPBI
+  #- icon: microsoftteams
+  #  icon_pack: fab
+  #    link: https://join.skype.com/invite/gW4O8dVEyPBI
   - icon: cv
     icon_pack: ai
     link: uploads/kolokasis_cv.pdf
