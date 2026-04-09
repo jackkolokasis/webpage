@@ -276,6 +276,8 @@ sections:
     content:
       title: Recent & Upcoming Affiliated Conferences and Journals
       text: |-
+        - Member, Organization Committee, [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/)
+        - Member, Program Committee, [MICRO 2026](https://www.microarch.org/micro59/index.php)
         - Member, Program Committee, [TDIS 2026](https://tdis.gitlab.io/tdis26/)
         - Member, Program Committee, [VMIL 2025](https://conf.researchr.org/home/icfp-splash-2025/vmil-2025)
         - Member, Program Committee, [TDIS 2025](https://tdis.gitlab.io/tdis25/)
